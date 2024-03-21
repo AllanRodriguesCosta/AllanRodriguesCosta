@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 <div>
-             --------> POWER SHOES <--------
+-------------------> POWER SHOES <--------------------------<br><br>
 
 https://allanrodriguescosta.github.io/Power-Shoes/index.html
 </div>
