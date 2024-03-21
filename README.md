@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 <div>
 -------------------> POWER SHOES <-----------------------<br><br>
 
-https://allanrodriguescosta.github.io/Power-Shoes/index.html
+https://allanrodriguescosta.github.io/Power-Shoes/index.html<target="blank">
 </div>
