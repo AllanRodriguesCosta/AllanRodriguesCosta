@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 <div>
 -------------------> POWER SHOES <-----------------------<br><br>
 
-<a href="https://allanrodriguescosta.github.io/Power-Shoes/index.html" target="blank"></a>
+<a href="https://allanrodriguescosta.github.io/Power-Shoes/index.html" target="blank"><img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" target="blank"></a>
 </div>
