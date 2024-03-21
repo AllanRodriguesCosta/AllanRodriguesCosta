@@ -22,6 +22,8 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/allanrodriguescosta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
---------> POWER SHOES <--------
+
+
+             --------> POWER SHOES <--------
 
 https://allanrodriguescosta.github.io/Power-Shoes/index.html
