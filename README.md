@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 
 
 
+TypeScript | Node.js | NestJS | Express | React | PostgreSQL | SQL Server | Docker | Azure |
